@@ -1,0 +1,1 @@
+<iframe src="http://www.facebook.com/plugins/like.php?href=www.caplandnola.com&amp;layout=standard&amp;show_faces=true&amp;width=400&amp;action=like&amp;colorscheme=light&amp;height=30" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:30px;" allowTransparency="true"></iframe>

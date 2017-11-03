@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+
+	<album title="" description="" lgPath="img/products/" tnPath="img/products/tn/" tn="" audio="" audioCaption="">
+		<img src="01.jpg" caption="" link="img/products/01.jpg" />
+		<img src="02.jpg" caption="" link="img/products/02.jpg" />
+		<img src="03.jpg" caption="" link="img/products/03.jpg" />
+		<img src="04.jpg" caption="" link="img/products/04.jpg" />
+		<img src="05.jpg" caption="" link="img/products/05.jpg" />
+		<img src="06.jpg" caption="" link="img/products/06.jpg" />
+		<img src="07.jpg" caption="" link="img/products/07.jpg" />
+		<img src="08.jpg" caption="" link="img/products/08.jpg" />
+		<img src="09.jpg" caption="" link="img/products/09.jpg" />
+		<img src="10.jpg" caption="" link="img/products/10.jpg" />
+		<img src="11.jpg" caption="" link="img/products/11.jpg" />
+		<img src="12.jpg" caption="" link="img/products/12.jpg" />
+		<img src="13.jpg" caption="" link="img/products/13.jpg" />
+		<img src="14.jpg" caption="" link="img/products/14.jpg" />
+		<img src="15.jpg" caption="" link="img/products/15.jpg" />
+		<img src="16.jpg" caption="" link="img/products/16.jpg" />
+		<img src="17.jpg" caption="" link="img/products/17.jpg" />
+		<img src="18.jpg" caption="" link="img/products/18.jpg" />
+		<img src="19.jpg" caption="" link="img/products/19.jpg" />
+		<img src="20.jpg" caption="" link="img/products/20.jpg" />
+	</album>
+
+</gallery>

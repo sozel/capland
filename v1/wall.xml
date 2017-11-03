@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+
+	<album title="" description="" lgPath="img/wall/" tnPath="img/wall/tn/" tn="" audio="" audioCaption="">
+		<img src="01.jpg" caption="" link="img/wall/01.jpg" />
+		<img src="02.jpg" caption="" link="img/wall/02.jpg" />
+		<img src="03.jpg" caption="" link="img/wall/03.jpg" />
+		<img src="04.jpg" caption="" link="img/wall/04.jpg" />
+		<img src="05.jpg" caption="" link="img/wall/05.jpg" />
+		<img src="06.jpg" caption="" link="img/wall/06.jpg" />
+		<img src="07.jpg" caption="" link="img/wall/07.jpg" />
+		<img src="08.jpg" caption="" link="img/wall/08.jpg" />
+		<img src="09.jpg" caption="" link="img/wall/09.jpg" />
+		<img src="10.jpg" caption="" link="img/wall/10.jpg" />
+		<img src="11.jpg" caption="" link="img/wall/11.jpg" />
+		<img src="12.jpg" caption="" link="img/wall/12.jpg" />
+	</album>
+
+</gallery>
