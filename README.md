@@ -1,4 +1,4 @@
-#Capland Embroidery Website
+# Capland Embroidery Website
 
 Simple responsive website I've put together to promote my parents' embroidery business.
 
